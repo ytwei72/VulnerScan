@@ -23,7 +23,7 @@ import com.dky.vulnerscan.util.PageUtil;
 import com.dky.vulnerscan.util.ResponseUtil;
 import com.dky.vulnerscan.util.StringUtil;
 
-@RestController
+@Controller
 @RequestMapping("/vulner_manage/backup")
 public class BackupController {
 	
